@@ -1,0 +1,552 @@
+[
+  {
+    "Name": "ExecAgent1",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent2",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent3",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent4",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent5",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent6",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent7",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent8",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent9",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent10",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent11",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent12",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent13",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent14",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent15",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent16",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent17",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent18",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent19",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent20",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent21",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent22",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent23",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent24",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "ExecAgent25",
+    "Layer": "Execution",
+    "Tasks": [
+      "Revenue Pipeline Task",
+      "Data Processing Task",
+      "Automation Task"
+    ],
+    "RevenueImpact": "High"
+  },
+  {
+    "Name": "MonitorAgent1",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent2",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent3",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent4",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent5",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent6",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent7",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent8",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent9",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "MonitorAgent10",
+    "Layer": "Monitoring",
+    "Tasks": [
+      "Health Check",
+      "Bottleneck Detection",
+      "Resource Tracking"
+    ],
+    "RevenueImpact": "Indirect"
+  },
+  {
+    "Name": "ValidateAgent1",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent2",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent3",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent4",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent5",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent6",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent7",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent8",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent9",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "ValidateAgent10",
+    "Layer": "Validation",
+    "Tasks": [
+      "Output Verification",
+      "Compliance Check",
+      "Quality Assurance"
+    ],
+    "RevenueImpact": "Ensures Accuracy"
+  },
+  {
+    "Name": "OptimizeAgent1",
+    "Layer": "Optimization",
+    "Tasks": [
+      "Performance Tuning",
+      "Scaling",
+      "Workflow Improvement"
+    ],
+    "RevenueImpact": "Efficiency Boost"
+  },
+  {
+    "Name": "OptimizeAgent2",
+    "Layer": "Optimization",
+    "Tasks": [
+      "Performance Tuning",
+      "Scaling",
+      "Workflow Improvement"
+    ],
+    "RevenueImpact": "Efficiency Boost"
+  },
+  {
+    "Name": "OptimizeAgent3",
+    "Layer": "Optimization",
+    "Tasks": [
+      "Performance Tuning",
+      "Scaling",
+      "Workflow Improvement"
+    ],
+    "RevenueImpact": "Efficiency Boost"
+  },
+  {
+    "Name": "OptimizeAgent4",
+    "Layer": "Optimization",
+    "Tasks": [
+      "Performance Tuning",
+      "Scaling",
+      "Workflow Improvement"
+    ],
+    "RevenueImpact": "Efficiency Boost"
+  },
+  {
+    "Name": "OptimizeAgent5",
+    "Layer": "Optimization",
+    "Tasks": [
+      "Performance Tuning",
+      "Scaling",
+      "Workflow Improvement"
+    ],
+    "RevenueImpact": "Efficiency Boost"
+  },
+  {
+    "Name": "SuperviseAgent1",
+    "Layer": "Supervisory",
+    "Tasks": [
+      "Task Assignment",
+      "Workflow Orchestration",
+      "Dashboard Reporting"
+    ],
+    "RevenueImpact": "Global Management"
+  },
+  {
+    "Name": "SuperviseAgent2",
+    "Layer": "Supervisory",
+    "Tasks": [
+      "Task Assignment",
+      "Workflow Orchestration",
+      "Dashboard Reporting"
+    ],
+    "RevenueImpact": "Global Management"
+  },
+  {
+    "Name": "SuperviseAgent3",
+    "Layer": "Supervisory",
+    "Tasks": [
+      "Task Assignment",
+      "Workflow Orchestration",
+      "Dashboard Reporting"
+    ],
+    "RevenueImpact": "Global Management"
+  },
+  {
+    "Name": "SuperviseAgent4",
+    "Layer": "Supervisory",
+    "Tasks": [
+      "Task Assignment",
+      "Workflow Orchestration",
+      "Dashboard Reporting"
+    ],
+    "RevenueImpact": "Global Management"
+  },
+  {
+    "Name": "SuperviseAgent5",
+    "Layer": "Supervisory",
+    "Tasks": [
+      "Task Assignment",
+      "Workflow Orchestration",
+      "Dashboard Reporting"
+    ],
+    "RevenueImpact": "Global Management"
+  }
+]

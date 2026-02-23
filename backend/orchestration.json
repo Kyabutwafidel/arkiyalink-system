@@ -1,0 +1,31 @@
+{
+  "Layers": [
+    "Execution",
+    "Monitoring",
+    "Validation",
+    "Optimization",
+    "Supervisory"
+  ],
+  "Rules": [
+    {
+      "From": "Execution",
+      "Action": "Report Status",
+      "To": "Monitoring"
+    },
+    {
+      "From": "Monitoring",
+      "Action": "Adjust Resources",
+      "To": "Optimization"
+    },
+    {
+      "From": "Validation",
+      "Action": "Feedback Loop",
+      "To": "Execution"
+    },
+    {
+      "From": "Supervisory",
+      "Action": "Task Assignment",
+      "To": "All"
+    }
+  ]
+}
